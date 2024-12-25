@@ -1,0 +1,14 @@
+{
+  "name": "ip-address-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js server that logs the user's IP address and returns it.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
